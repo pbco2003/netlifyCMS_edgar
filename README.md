@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8f305679-24cf-4136-a478-413411e78778/deploy-status)](https://app.netlify.com/sites/netlify-cms-react-example/deploys)
 
-# netlify-cms-react-example
+# netlify-cms-react-example - Implementação Edgar
 
 [![Edit netlify-cms-app Example](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/k95z2k616r?fontsize=14)
 
